@@ -1,0 +1,23 @@
+/* Custom additions on top of Strata's main.css */
+
+#header .tagline {
+	color: rgba(255, 255, 255, 0.65);
+	font-size: 0.85em;
+	line-height: 1.6em;
+	max-width: 26em;
+	margin: 0.75em auto 0 auto;
+	text-align: left;
+}
+
+#header .tagline a {
+	color: #ffffff;
+	border-bottom-color: rgba(255, 255, 255, 0.4);
+}
+
+#header nav#nav {
+	margin-top: 1.5em;
+}
+
+#header nav#nav .actions {
+	justify-content: center;
+}
